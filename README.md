@@ -24,6 +24,7 @@ https://github.com/apatheticking/pbj-business
 -back in the pbj-scheduler-widget folder run the command 'npm start'
 
 ##Dependencies
+
 "@material-ui/core": "^1.1.0",
 "axios": "^0.18.0",
 "gh-pages": "^1.2.0",
